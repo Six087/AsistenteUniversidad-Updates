@@ -1,6 +1,3 @@
-Sí, usá esta versión más linda:
-
-```md
 # ◈ Asistente Universidad - Actualizaciones
 
 Repositorio público usado únicamente para distribuir actualizaciones de **Asistente Universidad**.
@@ -20,9 +17,8 @@ Cuando hay una actualización, el programa puede descargar el ejecutable más re
 
 ```text
 AsistenteUniversidad.exe
-```
 
-y reemplazar la versión anterior de forma más simple, sin tener que pasar el archivo manualmente.
+```
 
 ---
 
@@ -32,7 +28,7 @@ Aunque este repositorio sea público y el ejecutable pueda descargarse, el acces
 
 Esto significa que descargar el archivo no permite usar la aplicación libremente: solo las personas autorizadas con una cuenta válida pueden acceder al sistema y a sus datos.
 
-No se publican en este repositorio datos personales, sesiones, configuraciones privadas ni información sensible de Firebase.
+No se publican en este repositorio datos personales, sesiones, configuraciones privadas ni información sensible de la Base de Datos.
 
 ---
 
@@ -72,21 +68,6 @@ La aplicación busca el ejecutable dentro del último release publicado.
 
 ---
 
-## ◈ Versionado recomendado
-
-Usar tags con este formato:
-
-```text
-v6.6.1
-v6.6.2
-v6.7.0
-```
-
-Y dentro del programa usar la misma versión sin la `v`:
-
-```python
-APP_VERSION = "6.6.1"
-```
 
 ---
 
@@ -94,15 +75,7 @@ APP_VERSION = "6.6.1"
 
 Este repositorio es solo para actualizaciones.
 
-No subir acá:
-
-- Código fuente privado.
-- `config.json`
-- `session.json`
-- Claves de Firebase.
-- Datos de usuarios.
-- Archivos personales.
-- Información sensible del proyecto.
+**No se puede utlizar si no tenes un email autorizado**
 
 ---
 
